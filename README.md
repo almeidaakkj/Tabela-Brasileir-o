@@ -1,2 +1,2 @@
 # Tabela-Brasileir-o
-AUm
+Uma tabela que representa a classificação do brasileirão
